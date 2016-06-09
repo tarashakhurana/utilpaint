@@ -7,13 +7,13 @@ All available features of the applet are listed as follows.
 
 1. Tools that have been made a part of ‘Paint the Picture’ are Line, Oval, Rectangle and Pen. 
 
-+ Line tool lets the user draw straight lines from the press point of the mouse to its release point, in any direction*. 
+  * Line tool lets the user draw straight lines from the press point of the mouse to its release point, in any direction*. 
 
-+ Oval tool lets the user draw either a vertical or horizontal ellipse. The ellipse is drawn within the bounds of the imaginary rectangle formed by the the press point and release point of the mouse, in any direction*. 
+  * Oval tool lets the user draw either a vertical or horizontal ellipse. The ellipse is drawn within the bounds of the imaginary rectangle formed by the the press point and release point of the mouse, in any direction*. 
 
-+ Rectangle tool draws rectangles in a similar manner in any direction*. 
+  * Rectangle tool draws rectangles in a similar manner in any direction*. 
 
-+ Pen tool is a free hand drawing tool for making any kind of strokes or curves.
+  * Pen tool is a free hand drawing tool for making any kind of strokes or curves.
 
 2. Thickness of the Pen tool and Line tool can be controlled with the help of a slider which enables the tools’ thickness ranging from 1pt to 50pts.
 
