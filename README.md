@@ -1,11 +1,11 @@
-# paint-the-picture
+# utilpaint
 A Java Graphics based applet that facilitates drawing with basic tools, inserting images and saving the created artwork.
 
 **Features:**
 
 All available features of the applet are listed as follows.
 
-1. Tools that have been made a part of ‘Paint the Picture’ are Line, Oval, Rectangle and Pen. 
+1. Tools that have been made a part of ‘UtilPaint’ are Line, Oval, Rectangle and Pen. 
 
   * Line tool lets the user draw straight lines from the press point of the mouse to its release point, in any direction*. 
 
